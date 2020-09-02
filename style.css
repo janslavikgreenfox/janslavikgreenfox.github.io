@@ -1,0 +1,58 @@
+#logo {
+    background-color: #333333;
+    margin: 5px 5px;
+    padding: 10px 10px;
+    color: #ff0099;
+    text-decoration: underline;
+}
+
+#Links {
+    color: #ff0099;
+    text-decoration: underline;
+    float: right;
+    white-space: nowrap;
+    width: 800 px;
+    margin: 0px 10%;
+    font-size: 22px;    
+}
+
+#Three-dashes-separator{
+    margin: 1px 35%;
+}
+
+
+body{
+    font-family: 'Courier New';
+    background-image:  url("assets/topography.png");
+    display: inline-block;
+    overflow: scroll;
+    width: 120%;
+}
+
+ul, li{
+    display: inline;
+    margin : 10px 10px;
+}
+
+h1, h2, h3, p {
+    padding: 1px 10%;
+}
+
+h1{
+    font-size: 34px;
+}
+
+h2{
+    color: #ff0099;
+    font-size: 28px;
+}
+
+h3{
+    font-size: 26px;
+}
+
+p{
+    font-size: 24px;
+}
+
+
